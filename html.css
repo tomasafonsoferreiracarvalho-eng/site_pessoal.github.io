@@ -574,3 +574,8 @@ footer {
     inset 0 0 15px rgba(255,110,199,0.15);
   transform: translateY(-4px) scale(1.03);
 }
+.cursos .skill-item:hover {
+  box-shadow: 
+    0 20px 50px rgba(0,0,0,0.6),
+    0 0 35px rgba(0,255,243,0.4); /* cyan glow só para certs */
+}
